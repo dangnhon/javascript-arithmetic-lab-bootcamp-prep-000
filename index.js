@@ -30,7 +30,7 @@ function decrement(n) {
 
 function makeInt(n) {
   var n = 20;
-  return(parseInt(n 10));
+  return(parseInt(n 
 }
 
 
