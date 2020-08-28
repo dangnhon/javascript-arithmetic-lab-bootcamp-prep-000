@@ -7,7 +7,7 @@ function add() {
 function ab(integer) { 
   var a = 15;
   var b = 20;
-  if (integer) === (integer) {
+  if (integer) == (integer) {
     return (a + b);
   }
 
