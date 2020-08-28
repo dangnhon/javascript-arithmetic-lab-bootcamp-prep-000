@@ -4,5 +4,9 @@ function add() {
   number += 10;
 }
 
-function 
+function add(ab) {
+  var a = 15;
+  var b = 20;
+  return(a + b);
+}
 
