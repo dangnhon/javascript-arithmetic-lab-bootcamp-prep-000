@@ -1,4 +1,6 @@
+var number = 10; 
+
 function add() {
-  var number = 10;
-  return(number);
+  number += 10;
 }
+
