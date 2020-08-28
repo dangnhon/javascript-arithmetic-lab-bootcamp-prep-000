@@ -5,8 +5,6 @@ function add() {
 }
 
 function add(a, b) {
-  var a = 15;
-  var b = 20;
   return(a + b);
 }
 
