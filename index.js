@@ -8,10 +8,6 @@ function add(a, b) {
   return(a + b);
 }
 
-function subtract() {
-  number -= 102;
-}
-
 function substract(a, b) {
   return(b - a);
 }
