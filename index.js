@@ -23,3 +23,13 @@ function divide(a, b) {
 function increment(n) {
   return(++n);
 }
+
+function decrment(n) {
+  return(--n);
+}
+
+
+
+
+
+
