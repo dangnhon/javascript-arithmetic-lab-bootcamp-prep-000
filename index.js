@@ -4,8 +4,8 @@ function add() {
   number += 10;
 }
 
-function ab() { 
+function ab(integer) { 
   var a = 15;
   var b = 20;
-  return(a + b) === 
+  return(integer) === (integer)
 
