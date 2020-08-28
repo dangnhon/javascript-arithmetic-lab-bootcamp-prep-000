@@ -29,7 +29,7 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  return(parseInt(n.toString()));
+  return(parseInt(n));
 }
 
 
