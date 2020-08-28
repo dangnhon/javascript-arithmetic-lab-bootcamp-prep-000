@@ -9,6 +9,6 @@ function add(a, b) {
 }
 
 function substract(a, b) {
-  return(b - a);
+  return(a - b);
 }
 
